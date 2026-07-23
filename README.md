@@ -34,7 +34,7 @@ Tenho interesse especial por arquitetura de software, microsserviços, conteiner
 ### Back-end
 
 <p>
-<img src="https://skillicons.dev/icons?i=spring,nodejs,express" />
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express,laravel" />
 </p>
 
 ### Banco de Dados
