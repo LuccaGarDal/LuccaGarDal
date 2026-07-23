@@ -75,7 +75,7 @@ API REST para gerenciamento financeiro desenvolvida com:
 ## 📫 Contato
 
 <p>
-<a href="https://www.linkedin.com/in/SEU_LINKEDIN](https://www.linkedin.com/in/lucca-garcia-rosa/">
+<a href="https://www.linkedin.com/in/lucca-garcia-rosa/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
