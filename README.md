@@ -79,10 +79,7 @@ API REST para gerenciamento financeiro desenvolvida com:
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:luccagarcia.dev@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
-</a>
-</p>
+📧 **Email:** `luccagarcia.dev@gmail.com`
 
 ---
 
