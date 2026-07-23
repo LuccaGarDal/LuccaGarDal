@@ -1,4 +1,4 @@
-<h1 align="center">Olá! 👋 Eu sou Lucca Garcia</h1>
+<h1 align="center">Lucca Garcia</h1>
 
 <p align="center">
   💻 Desenvolvedor Full Stack <br>
@@ -9,16 +9,11 @@
 
 ## 🚀 Sobre mim
 
-Sou apaixonado por tecnologia e desenvolvimento de software. Atualmente estudo **Análise e Desenvolvimento de Sistemas** e busco evoluir constantemente construindo projetos práticos e aprendendo novas tecnologias.
+Desenvolvedor Full Stack com foco na construção de aplicações escaláveis, seguras e de fácil manutenção. Tenho experiência no desenvolvimento de APIs REST e aplicações web utilizando Java, Spring Boot, JavaScript, TypeScript, React, Node.js e bancos de dados relacionais como MySQL e PostgreSQL.
 
-Tenho interesse principalmente em:
+Busco aplicar princípios de Engenharia de Software para desenvolver soluções bem estruturadas, priorizando arquitetura, legibilidade e qualidade do código. Nos meus projetos utilizo conceitos como SOLID, Clean Architecture, Design Patterns, autenticação com JWT, Docker e Docker Compose, integração entre serviços, modelagem de bancos de dados, versionamento com Git e boas práticas de desenvolvimento.
 
-- 🌐 Desenvolvimento Web
-- ☕ Backend com Java e Spring Boot
-- ⚛️ Frontend com React
-- 🗄️ Bancos de Dados
-- 🏗️ Arquitetura de Software
-- 📚 Estruturas de Dados e Algoritmos
+Tenho interesse especial por arquitetura de software, microsserviços, conteinerização, mensageria, testes automatizados, CI/CD e computação em nuvem, buscando continuamente evoluir na criação de sistemas robustos, escaláveis e preparados para ambientes de produção.
 
 ---
 
@@ -81,15 +76,6 @@ API REST para gerenciamento financeiro desenvolvida com:
 </p>
 
 ---
-
-## 🔥 Sequência de Contribuições
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
 
 ## 📫 Contato
 
