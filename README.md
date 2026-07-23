@@ -1,19 +1,14 @@
-<h1 align="center">Lucca Garcia</h1>
+<h1 >Lucca Garcia</h1>
 
-<p align="center">
+<p>
   💻 Desenvolvedor Full Stack <br>
-  📍 Salvador - BA, Brasil
 </p>
 
 ---
 
 ## 🚀 Sobre mim
 
-Desenvolvedor Full Stack com foco na construção de aplicações escaláveis, seguras e de fácil manutenção. Tenho experiência no desenvolvimento de APIs REST e aplicações web utilizando Java, Spring Boot, JavaScript, TypeScript, React, Node.js e bancos de dados relacionais como MySQL e PostgreSQL.
-
-Busco aplicar princípios de Engenharia de Software para desenvolver soluções bem estruturadas, priorizando arquitetura, legibilidade e qualidade do código. Nos meus projetos utilizo conceitos como SOLID, Clean Architecture, Design Patterns, autenticação com JWT, Docker e Docker Compose, integração entre serviços, modelagem de bancos de dados, versionamento com Git e boas práticas de desenvolvimento.
-
-Tenho interesse especial por arquitetura de software, microsserviços, conteinerização, mensageria, testes automatizados, CI/CD e computação em nuvem, buscando continuamente evoluir na criação de sistemas robustos, escaláveis e preparados para ambientes de produção.
+Desenvolvedor Full Stack com foco na construção de aplicações escaláveis, seguras e de fácil manutenção. Nos meus projetos utilizo conceitos como SOLID, Clean Architecture, Design Patterns, autenticação com JWT, Docker e Docker Compose, integração entre serviços, modelagem de bancos de dados, versionamento com Git e boas práticas de desenvolvimento.
 
 ---
 
